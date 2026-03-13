@@ -1,6 +1,6 @@
 # The pan-T-cell axis: overlapping transcriptional identities across CD4⁺, CD8⁺, γδ, and MAIT T cells
 
-## The code can be used to reproduce integration, postprocessing and figures from the manuscript
+## The code can be used to reproduce integration, postprocessing and figures from the manuscript. The processed annotated object will be deposited on Figshare.
 
 Data Format
 Single-cell objects are currently saved in the .qs format using the qs R package. 
